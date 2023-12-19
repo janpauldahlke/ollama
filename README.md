@@ -7,6 +7,9 @@
 
 # Ollama
 
+* try mistral and dolphin-mistral.
+* you will need 64gb ram certainly
+
 [![Discord](https://dcbadge.vercel.app/api/server/ollama?style=flat&compact=true)](https://discord.gg/ollama)
 
 Get up and running with large language models locally.
